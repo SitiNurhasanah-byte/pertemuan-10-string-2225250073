@@ -33,17 +33,20 @@ python3 tugas/normalisasi_data_mahasiswa.py
 
 | Input Nama | Input Kode Kelas | Hasil yang Diharapkan |
 |------------|------------------|-----------------------|
-| aan hendrayana | pmat a 2026 | Nama: Aan Hendrayana, Kode: PMAT-A-2026, Jumlah Kata: 2, Inisial: AH |
-| siti nurhasanah | pmat b 2026 | Nama: Siti Nurhasanah, Kode: PMAT-B-2026, Jumlah Kata: 2, Inisial: SN |
-| muhammad rizki pratama | pmat c 2026 | Nama: Muhammad Rizki Pratama, Kode: PMAT-C-2026, Jumlah Kata: 3, Inisial: MRP |
+| aan hendrayana | pmat a 2026 | Nama: Aan Hendrayana, Kode: PMAT-A-2026, Inisial: AH |
+| fATHIYYAH mUTHMAINNAH | kelas b | Nama: Fathiyyah Muthmainnah, Kode: KELAS-B, Inisial: FM |
+| BUDI | pmtk 01 | Nama: Budi, Kode: PMTK-01, Inisial: B |
+| siti nur aisyah | kelas c | Nama: Siti Nur Aisyah, Kode: KELAS-C, Inisial: SNA |
 
 ## Hasil Pengujian
 
 | No | Input Nama | Input Kode | Hasil Aktual | Status |
 |----|------------|------------|--------------|--------|
 | 1 | aan hendrayana | pmat a 2026 | AH, PMAT-A-2026 | Berhasil |
-| 2 | siti nurhasanah | pmat b 2026 | SN, PMAT-B-2026 | Berhasil |
-| 3 | muhammad rizki pratama | pmat c 2026 | MRP, PMAT-C-2026 | Berhasil |
+| 2 | fATHIYYAH mUTHMAINNAH | kelas b | FM, KELAS-B | Berhasil |
+| 3 | BUDI | pmtk 01 | B, PMTK-01 | Berhasil |
+| 4 | siti nur aisyah | kelas c | SNA, KELAS-C | Berhasil |
+
 
 ## Refleksi
 
